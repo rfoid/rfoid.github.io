@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rfoid.github.io/gTy/sitemap.gTy.gz
